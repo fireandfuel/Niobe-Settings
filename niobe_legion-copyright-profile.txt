@@ -1,5 +1,5 @@
 Niobe Legion - a versatile client / server framework
-    Copyright (C) 2013-$today.year by $username
+    Copyright (C) 2013-$today.year by $username (fireandfuel<at>hotmail<dot>de)
 
 This file ($file.fileName) is part of Niobe Legion (module $module.name).
 
